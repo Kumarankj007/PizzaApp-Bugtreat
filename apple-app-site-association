@@ -1,0 +1,32 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "Q4GGFA6D47.com.italieplein.perfectpizzaflours"
+        ],
+        "components": [
+          {
+            "#": "no_universal_links",
+            "exclude": true,
+            "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+          },
+          {
+            "/": "/recipes/*",
+            "comment": "Matches any URL with a path that starts with /recipes/."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "Q4GGFA6D47.com.italieplein.perfectpizzaflours"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "Q4GGFA6D47.com.italieplein.perfectpizzaflours"
+    ]
+  }
+}
